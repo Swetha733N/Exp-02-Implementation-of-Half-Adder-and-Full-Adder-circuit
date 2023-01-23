@@ -46,7 +46,12 @@ RTL realization
 
 ### Output:
 ### RTL
+![half and full adder_page-0001](https://user-images.githubusercontent.com/122199934/214077379-bdf7dbf0-a053-4eb5-aff0-2ac8d729b186.jpg)
+![half and full adder_page-0003](https://user-images.githubusercontent.com/122199934/214077492-037f9ed5-f730-48d2-996a-8323be8ad9c4.jpg)
+
 ### TIMING DIAGRAM
+![half and full adder_page-0002](https://user-images.githubusercontent.com/122199934/214077601-d7d5ae7c-ada0-4c62-a2a9-c3796f90de00.jpg)
+![half and full adder_page-0004](https://user-images.githubusercontent.com/122199934/214077721-4d0ec2b9-4e91-4c98-a653-ef1308ed9779.jpg)
 
 
 ### TRUTH TABLE 
