@@ -55,10 +55,10 @@ RTL realization
 
 
 ### TRUTH TABLE 
-HALF ADDER:
-![image](https://user-images.githubusercontent.com/122199934/214775076-4c800755-1a3d-4ddf-9a2b-fde3fe2c5c2d.png)
-FULL ADDER:
-![image](https://user-images.githubusercontent.com/122199934/214775130-ec3a51c3-889b-4f1a-85d3-4ba8d5c51577.png)
+HALF ADDER:![image](https://user-images.githubusercontent.com/122199934/214775076-4c800755-1a3d-4ddf-9a2b-fde3fe2c5c2d.png)
+
+
+FULL ADDER:![image](https://user-images.githubusercontent.com/122199934/214775130-ec3a51c3-889b-4f1a-85d3-4ba8d5c51577.png)
 
 
 
